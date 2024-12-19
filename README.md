@@ -87,8 +87,3 @@ lib/
 │   └── database_helper.dart # Clase para interactuar con SQLite
 test/
 ├── map_provider_test.dart   # Pruebas unitarias para MapProvider
-
-📞 Contacto
-
-Correo electrónico: josemariaroperohinojosa@gmail.com
-GitHub: roperodev
